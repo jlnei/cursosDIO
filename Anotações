@@ -2,7 +2,10 @@ git clone 'link do repositorio'
     Clona o repositorio do github para o computador local
 
 git add .
-    Adiciona novos arquivos na pasta local
+    Adiciona novos arquivos na pasta local do repositorio
 
 git commit -m "comentario"
-    Inclui arquivos gerando commits
+    Inclui arquivos no repositorio local gerando commits
+
+git push original main
+    Empurra/atualiza o repositorio local para o github
