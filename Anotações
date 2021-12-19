@@ -1,0 +1,8 @@
+git clone 'link do repositorio'
+    Clona o repositorio do github para o computador local
+
+git add .
+    Adiciona novos arquivos na pasta local
+
+git commit -m "comentario"
+    Inclui arquivos gerando commits
